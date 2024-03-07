@@ -1,0 +1,6 @@
+dependencies:
+  idf: '^5.1'
+  led_strip: '^2.5.3'
+url: 'https://github.com/yuj09161/ESP32CommonModules'
+version: 0.0.1
+license: 'MIT'

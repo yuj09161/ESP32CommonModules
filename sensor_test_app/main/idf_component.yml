@@ -1,0 +1,6 @@
+dependencies:
+  bh1750: '^1.0.3'
+  aht20: '^0.1.0'
+  suda-morris/am2302_rmt: '^1.0.0'
+  yuj09161/ESP32CommonModules:
+    path: "../../"
